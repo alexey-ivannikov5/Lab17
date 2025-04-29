@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Lab17</string>
+    <string name="menu_music">Музыка</string>
+    <string name="menu_books">Книги</string>
+    <string name="menu_news">Новости</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="genre_rock">Рок</string>
+    <string name="genre_pop">Поп</string>
+    <string name="genre_jazz">Джаз</string>
+    <string name="genre_blues">Блюз</string>
+    <string name="genre_HipHop">Хип-хоп</string>
+    <string name="genre_funk">Фанк</string>
+    <string name="genre_disco">Диско</string>
+    <string name="genre_reggy">Регги</string>
 </resources>
